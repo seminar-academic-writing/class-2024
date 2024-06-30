@@ -1,11 +1,12 @@
 ---
 title: " "
 ---
+
 <br>
 
 **Course title:** Seminar 2: writing and publishing academic papers <br>
 **Class schedule:** July – November | Thursday 14:00 – 16:00 TH time <br>
-**Instructor:** Christopher Llones <br>
+<i class="fas fa-user"></i>**Instructor:** Christopher Llones &emsp;&emsp; <br>
 **e-mail:** christopher.allones@gmail.com
 
 # Course description

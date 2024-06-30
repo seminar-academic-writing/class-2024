@@ -18,12 +18,10 @@ website:
     contents:
       - href: "01-course-outline.qmd"
         text: "Course Outline"
-      - section: "Class materials"
+      - section: "Topics"
         contents:
           - href: "02-week12-foundation.qmd"
             text: "W12: Foundation of academic writing"
-          - href: "03-week34-dev-research-methods.qmd"
-            text: "W34: Developing research methods"
 
 format:
   html:
