@@ -5,6 +5,7 @@ project:
 website:
   page-navigation: true
   title: "Seminar 2"
+  favicon: "plot/seminar-2-hex-logo.png"
   
   repo-url: https://github.com/seminar-academic-writing/class-2024
   site-url: https://seminar-academic-writing.github.io/class-2024/
@@ -13,6 +14,7 @@ website:
     style: docked
     pinned: true
     seacrh: true
+    logo: "plot/seminar-2-hex-logo.png"
     contents:
       - href: "01-course-outline.qmd"
         text: "Course Outline"
