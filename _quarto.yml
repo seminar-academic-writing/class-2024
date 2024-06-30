@@ -1,13 +1,27 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "class-2024"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  page-navigation: true
+  title: "Seminar 2"
+  
+  repo-url: https://github.com/seminar-academic-writing/class-2024
+  site-url: https://seminar-academic-writing.github.io/class-2024/
+  
+  sidebar:
+    style: docked
+    pinned: true
+    seacrh: true
+    contents:
+      - href: "01-course-outline.qmd"
+        text: "Course Outline"
+      - section: "Class materials"
+        contents:
+          - href: "02-week12-foundation.qmd"
+            text: "W12: Foundation of academic writing"
+          - href: "03-week34-dev-research-methods.qmd"
+            text: "W34: Developing research methods"
 
 format:
   html:
